@@ -12,10 +12,10 @@
 
 Build a Full-Stack User Management System with the following features:
 
-* ✅ Create, Read, Update, Delete (CRUD) Users
-* ✅ Search Users by Name or Email
-* ✅ Filter Users by Status (Active/Inactive)
-* ✅ Sort Users by Age (Ascending/Descending)
+* Create, Read, Update, Delete (CRUD) Users
+* Search Users by Name or Email
+* Filter Users by Status (Active/Inactive)
+* Sort Users by Age (Ascending/Descending)
 
 ---
 
