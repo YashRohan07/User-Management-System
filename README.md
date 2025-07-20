@@ -190,11 +190,3 @@ This project demonstrates a **complete full-stack CRUD application** with:
 * **SQL Server**
 * **Vanilla JavaScript**
 
-
-
-**Your Name**
-
----
-
-**Feel free to copy and adjust this `README.md`** — then push it to your repository!
-If you’d like, I can also generate this as a downloadable `.md` file for you. Let me know! 🚀
