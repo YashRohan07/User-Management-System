@@ -113,13 +113,10 @@ All endpoints return JSON in the format:
 
 ---
 
-## **Frontend**
 
-### **UI Preview**
+### **Dashboard**
 
 <img width="1366" alt="Dashboard" src="https://github.com/user-attachments/assets/5c214f99-3310-43bb-a4b8-e350f32437a8" />
-
-### **Features**
 
 ## **Add User:** 
 <img width="1366" alt="Add User" src="https://github.com/user-attachments/assets/e7b80694-7f75-4dfa-89ab-3d98a59c698c" />
