@@ -45,7 +45,7 @@ UserManagement/
 
 ### Configure Database
 
-Update the `appsettings.json` with your SQL Server connection string:
+Updates the `appsettings.json` with SQL Server connection string:
 
 ```json
 "ConnectionStrings": {
