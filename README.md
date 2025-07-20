@@ -131,21 +131,29 @@ All endpoints return JSON in the format:
 
 ### **Features**
 
-* **Add User:** <img width="1366" alt="Add User" src="https://github.com/user-attachments/assets/e7b80694-7f75-4dfa-89ab-3d98a59c698c" />
+## **Add User:** 
+<img width="1366" alt="Add User" src="https://github.com/user-attachments/assets/e7b80694-7f75-4dfa-89ab-3d98a59c698c" />
 
-* **Update User:** <img width="1366" alt="Update User" src="https://github.com/user-attachments/assets/8d1403e0-7bc4-49ec-8ec8-2812179f7474" />
+## **Update User:** 
+<img width="1366" alt="Update User" src="https://github.com/user-attachments/assets/8d1403e0-7bc4-49ec-8ec8-2812179f7474" />
 
-* **Delete User:** <img width="1366" alt="Delete User" src="https://github.com/user-attachments/assets/72d6b8f1-4abe-4400-8fe9-d29a4bb4c9d1" />
+## **Delete User:** 
+<img width="1366" alt="Delete User" src="https://github.com/user-attachments/assets/72d6b8f1-4abe-4400-8fe9-d29a4bb4c9d1" />
 
-* **Search By Name:** <img width="1366" alt="Search Name" src="https://github.com/user-attachments/assets/c76f3236-1b00-46dc-adb7-86591db5885a" />
+## **Search By Name:** 
+<img width="1366" alt="Search Name" src="https://github.com/user-attachments/assets/c76f3236-1b00-46dc-adb7-86591db5885a" />
 
-* **Filter Active Users:** <img width="1366" alt="Active Users" src="https://github.com/user-attachments/assets/0f972fba-caa5-4573-9560-67225ac0177a" />
+## **Filter Active Users:** 
+<img width="1366" alt="Active Users" src="https://github.com/user-attachments/assets/0f972fba-caa5-4573-9560-67225ac0177a" />
 
-* **Filter Inactive Users:** <img width="1366" alt="Inactive Users" src="https://github.com/user-attachments/assets/453be246-3513-46cf-a7a4-83c596f5304e" />
+## **Filter Inactive Users:** 
+<img width="1366" alt="Inactive Users" src="https://github.com/user-attachments/assets/453be246-3513-46cf-a7a4-83c596f5304e" />
 
-* **Sort Age Ascending:** <img width="1366" alt="Age Ascending" src="https://github.com/user-attachments/assets/c7a9814e-942c-4c24-aba5-7094339f6a02" />
+## **Sort Age Ascending:**
+<img width="1366" alt="Age Ascending" src="https://github.com/user-attachments/assets/c7a9814e-942c-4c24-aba5-7094339f6a02" />
 
-* **Sort Age Descending:** <img width="1357" alt="Age Descending" src="https://github.com/user-attachments/assets/186403a1-7c8d-4f45-8341-4d3797d24d75" />
+## **Sort Age Descending:**
+<img width="1357" alt="Age Descending" src="https://github.com/user-attachments/assets/186403a1-7c8d-4f45-8341-4d3797d24d75" />
 
 ---
 
