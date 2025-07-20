@@ -64,7 +64,7 @@ dotnet ef migrations add InitialCreate
 dotnet ef database update
 ```
 
----
+  
 
 ## **API Endpoints**
 
@@ -83,15 +83,6 @@ dotnet ef database update
 * Sort: `?sort=age_asc` or `?sort=age_desc`
 
 ---
-
-
-
-## **NuGet Packages Used**
-
-* `Microsoft.EntityFrameworkCore.SqlServer` — SQL Server provider
-* `Microsoft.EntityFrameworkCore.Tools` — Migrations & Design
-* `Swashbuckle.AspNetCore` — Swagger/OpenAPI
-* `Microsoft.AspNetCore.OpenApi` — OpenAPI integration
 
 ---
 
