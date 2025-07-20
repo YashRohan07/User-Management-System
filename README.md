@@ -114,7 +114,7 @@ All endpoints return JSON in the format:
 ---
 
 
-### **Dashboard**
+## **Dashboard**
 
 <img width="1366" alt="Dashboard" src="https://github.com/user-attachments/assets/5c214f99-3310-43bb-a4b8-e350f32437a8" />
 
@@ -175,17 +175,6 @@ Tested thoroughly with **Postman**:
 <img width="935" height="515" alt="13" src="https://github.com/user-attachments/assets/bfbdb458-c53b-4d6c-a395-5b90bc6b4290" />
 
 
----
-### **Frontend Files**
-
-## `index.html` 
-<img width="937" alt="index.html" src="https://github.com/user-attachments/assets/47ab1412-db94-461b-80af-d4e1a44f01ce" />
-
-## `app.js`
-<img width="936" alt="app.js" src="https://github.com/user-attachments/assets/ff528e77-7204-478e-bfee-6baa08024ebc" />
-
-## `styles.css`
-<img width="939" alt="styles.css" src="https://github.com/user-attachments/assets/3e4e53d9-895b-40bf-b4e2-757a88f53746" />
 ---
 
 ## **Conclusion**
