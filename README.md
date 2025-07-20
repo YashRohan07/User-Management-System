@@ -107,6 +107,8 @@ The `User` table includes:
 * `IsActive` (Boolean, default `true`)
 * `Age` (int)
 
+##
+<img width="1034" height="659" alt="14" src="https://github.com/user-attachments/assets/0fe47481-1046-49b2-89fa-37ffc607dc4a" />
 
 ## **API Responses**
 
@@ -147,13 +149,7 @@ All endpoints return JSON in the format:
 
 ---
 
-### **Frontend Files**
 
-✅ `index.html` <img width="937" alt="index.html" src="https://github.com/user-attachments/assets/47ab1412-db94-461b-80af-d4e1a44f01ce" />
-
-✅ `app.js` <img width="936" alt="app.js" src="https://github.com/user-attachments/assets/ff528e77-7204-478e-bfee-6baa08024ebc" />
-
-✅ `styles.css` <img width="939" alt="styles.css" src="https://github.com/user-attachments/assets/3e4e53d9-895b-40bf-b4e2-757a88f53746" />
 
 ---
 
@@ -176,6 +172,7 @@ Tested thoroughly with **Postman**:
 <img width="937" alt="Postman 3" src="https://github.com/user-attachments/assets/3a36713d-6f77-4ccc-9e05-9e6452dc2835" />
 <img width="937" alt="Postman 4" src="https://github.com/user-attachments/assets/b5883e35-e316-42f3-b487-d1738e9c0d41" />
 <img width="937" alt="Postman 5" src="https://github.com/user-attachments/assets/901c3e80-b6ca-4dec-9412-f79c53a79e35" />
+<img width="936" height="467" alt="8" src="https://github.com/user-attachments/assets/9802afbe-8518-4efd-8c96-c66f376cc453" />
 <img width="934" height="574" alt="9" src="https://github.com/user-attachments/assets/2ddb2dc4-c139-4306-aa7e-a31d12f0c8e2" />
 <img width="940" height="580" alt="10" src="https://github.com/user-attachments/assets/06f094d1-7936-4033-84d8-f61497ee4c6d" />
 <img width="940" height="588" alt="11" src="https://github.com/user-attachments/assets/a1434b36-e459-40bb-9a5b-d01dbd9312d9" />
@@ -184,7 +181,16 @@ Tested thoroughly with **Postman**:
 
 
 ---
+### **Frontend Files**
 
+## `index.html` 
+<img width="937" alt="index.html" src="https://github.com/user-attachments/assets/47ab1412-db94-461b-80af-d4e1a44f01ce" />
+
+## `app.js`
+<img width="936" alt="app.js" src="https://github.com/user-attachments/assets/ff528e77-7204-478e-bfee-6baa08024ebc" />
+
+## `styles.css`
+<img width="939" alt="styles.css" src="https://github.com/user-attachments/assets/3e4e53d9-895b-40bf-b4e2-757a88f53746" />
 ---
 
 ## **Conclusion**
