@@ -63,7 +63,7 @@ Initialize the database:
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 ```
-
+---
   
 
 ## **API Endpoints**
