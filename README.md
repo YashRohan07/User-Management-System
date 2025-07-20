@@ -42,7 +42,6 @@ UserManagement/
 ---
 
 
-
 ### Configure Database
 
 Updates the `appsettings.json` with SQL Server connection string:
@@ -63,6 +62,24 @@ Initialize the database:
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 ```
+
+---
+
+## **Database Schema**
+
+The `User` table includes:
+
+* `Id` (Primary Key)
+* `Name` (Required)
+* `Email` (Required, `[EmailAddress]`)
+* `PhoneNumber` (Required)
+* `Address` (Required)
+* `IsActive` (Boolean, default `true`)
+* `Age` (int)
+
+##
+<img width="1034" height="659" alt="14" src="https://github.com/user-attachments/assets/0fe47481-1046-49b2-89fa-37ffc607dc4a" />
+
 ---
   
 
@@ -83,24 +100,6 @@ dotnet ef database update
 * Sort: `?sort=age_asc` or `?sort=age_desc`
 
 ---
-
----
-
-## **Database Schema**
-
-The `User` table includes:
-
-* `Id` (Primary Key)
-* `Name` (Required)
-* `Email` (Required, `[EmailAddress]`)
-* `PhoneNumber` (Required)
-* `Address` (Required)
-* `IsActive` (Boolean, default `true`)
-* `Age` (int)
-
-##
-<img width="1034" height="659" alt="14" src="https://github.com/user-attachments/assets/0fe47481-1046-49b2-89fa-37ffc607dc4a" />
-
 ## **API Responses**
 
 All endpoints return JSON in the format:
