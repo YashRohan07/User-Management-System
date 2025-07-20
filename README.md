@@ -84,14 +84,6 @@ dotnet ef database update
 
 ---
 
-## **API Test Route**
-
-Test your API:
-
-```http
-GET https://localhost:7262/api/users/test
-```
-
 
 
 ## **NuGet Packages Used**
