@@ -19,7 +19,7 @@ Build a Full-Stack User Management System with the following features:
 
 ---
 
-## 🏗️ **Project Structure**
+## **Project Structure**
 
 ```
 UserManagement/
